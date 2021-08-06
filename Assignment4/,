@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+Initial commit
+#
+# Changes to be committed:
+#	new file:   pom.xml
+#	new file:   src/main/java/com/mycompany/assignment4/QueueMain.java
+#	new file:   src/main/java/com/mycompany/assignment4/Queues.java
+#	new file:   src/main/java/com/mycompany/assignment4/Sting.java
+#	new file:   target/classes/com/mycompany/assignment4/QueueMain.class
+#	new file:   target/classes/com/mycompany/assignment4/Queues.class
+#	new file:   target/classes/com/mycompany/assignment4/Sting.class
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#
